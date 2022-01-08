@@ -7,8 +7,6 @@ I Spend most of time coding outstanding projects or recording tutorials.
 
 [![Twitter Badge](https://img.shields.io/badge/-@dickyrey-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dickyrey)](https://twitter.com/dickyrey) [![Mail Badge](https://img.shields.io/badge/-ByneetDev-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCxJInPa5SMldFHfJreSJ73Q) [![Mail Badge](https://img.shields.io/badge/-@d.reynaldi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/d.reynaldi) [![Mail Badge](https://img.shields.io/badge/-dickyrey-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dicky.rey97@gmail.com)
 
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dickyrey&show_icons=true&theme=omni&hide_border=true)
 
 <!--START_SECTION:waka-->
