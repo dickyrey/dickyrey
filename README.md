@@ -20,5 +20,20 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dickyrey&show_icons=true&locale=en&layout=compact" alt="dickyrey" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dickyrey&show_icons=true&locale=en" alt="dickyrey" /></p>
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khairulanas&show_icons=true&theme=omni&hide_border=true)
+
+<!--START_SECTION:waka-->
+```text
+Week: 01 January, 2022 - 07 January, 2022
+
+Dart    7 hrs 17 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀   94.37 % 
+Other   21 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.68 % 
+YAML    3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.79 % 
+```
+<!--END_SECTION:waka-->
+
+---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dickyrey&" alt="dickyrey" /></p>
