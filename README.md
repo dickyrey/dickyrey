@@ -1,4 +1,4 @@
-<img display="float" align="right" width="400" src="https://raw.githubusercontent.com/dickyrey/dickyrey/main/download-removebg-preview.png">
+<img display="float" align="right" width="400" src="https://raw.githubusercontent.com/dickyrey/dickyrey/main/VALORANT_Agents__Omen__a_Controller_from_unknown_origins-removebg-preview.png">
 <h1 align="left">Hi, I'm Dicky <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1> 
 Flutter Developer and Content Creator on Youtube. I am also actively playing games like Valorant and Assassin's Creed Valhalla.
 I Spend most of time coding outstanding projects or recording tutorials.
