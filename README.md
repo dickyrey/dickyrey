@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Dicky <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1> 
 Flutter Developer and Content Creator on [Youtube](https://www.youtube.com/channel/UCxJInPa5SMldFHfJreSJ73Q). I Spend most of time coding outstanding projects or recording tutorials.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dickyrey&label=Profile%20views&color=0e75b6&style=flat" alt="dickyrey" /> </p>
+:mailbox: Reach me out!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dickyrey" alt="dickyrey" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/dickyrey" target="blank"><img src="https://img.shields.io/twitter/follow/dickyrey?logo=twitter&style=for-the-badge" alt="dickyrey" /></a> </p>
+[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/dickyrey) [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCxJInPa5SMldFHfJreSJ73Q) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/d.reynaldi) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dicky.rey97@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
