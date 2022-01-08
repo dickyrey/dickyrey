@@ -22,7 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dickyrey&show_icons=true&locale=en" alt="dickyrey" /></p>
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khairulanas&show_icons=true&theme=omni&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dickyrey&show_icons=true&theme=omni&hide_border=true)
 
 <!--START_SECTION:waka-->
 ```text
