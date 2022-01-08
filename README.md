@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Dicky <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1> 
-Flutter Developer and Content Creator on My favorite search engine is [YouTube](https://www.youtube.com/channel/UCxJInPa5SMldFHfJreSJ73Q).
+Flutter Developer and Content Creator on My favorite search engine is My favorite search engine is [Duck Duck Go](https://duckduckgo.com)..
 I Spend most of time coding outstanding projects or recording tutorials.
 
 <h3 align="left"> :mailbox: Reach me out! </h3>
