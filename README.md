@@ -9,16 +9,6 @@ I Spend most of time coding outstanding projects or recording tutorials.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dickyrey&show_icons=true&theme=omni&hide_border=true)
 
-<!--START_SECTION:waka-->
-```text
-Week: 01 January, 2022 - 07 January, 2022
-
-Dart    7 hrs 17 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀   94.37 % 
-Other   21 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.68 % 
-YAML    3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.79 % 
-```
-<!--END_SECTION:waka-->
-
 ---
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
