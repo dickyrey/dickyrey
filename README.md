@@ -1,7 +1,10 @@
-<img display="float" align="right" width="100" src="https://raw.githubusercontent.com/dickyrey/dickyrey/main/download-removebg-preview.png">
-<h1 align="left">Hi, I'm Dicky <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1> 
+<img display="float" align="right" width="300" src="https://raw.githubusercontent.com/dickyrey/dickyrey/main/download-removebg-preview.png">
+<h1 align="left">Hi, I'm Dicky</h1> 
 Flutter Developer and Content Creator on Youtube. I am also actively playing games like FPS and Casual games.
 I Spend most of time coding outstanding projects or recording tutorials.
+
+<h3>I Created Flutter UI Kit Bundle with a very affordable price.</h3>
+<p> You can get it at <a href="https://bit.ly/3oLxHbu" target="_blank">Codecanyon</a> and <a href="https://bit.ly/3AzfO2K" target="_blank">Codester</a> </p>
 
 <h3 align="left"> :mailbox: Reach me out!</h3>
  
